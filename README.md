@@ -8,6 +8,8 @@ A startup called Sparkify wants to analyze the data they've been collecting on s
 Create a postgres database with tables designed to optimize queries on song play analysis
 Create an ETL pipeline that transfers data from files in two local directions to these tables in Postgres using python and SQL
 
+![Untitled Workspace](https://user-images.githubusercontent.com/59209191/118030261-f5f88480-b35c-11eb-887f-9c252f3027b3.jpg)
+
 ## Dataset
 
 The first dataset is a subset of real data from the Million Song Dataset. Each file is in JSON format and contains metadata about a song and the artist of that song. The files are partitioned by the first three letters of each song's track ID. For example, here are filepaths to two files in this dataset.
